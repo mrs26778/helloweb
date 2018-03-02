@@ -1,0 +1,52 @@
+h1 {
+  background-color: #000000;
+  color: #FFFFFF;
+  padding:50px;
+  text-align: center;
+}
+
+main {
+  width: 624px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#wrapper {
+  display:flex;
+  flex-wrap:wrap;
+}
+
+.article {
+  width:33%;
+}
+
+footer {
+  background-color: #000000;
+  color: #FFFFFF;
+  padding:30px 0;
+  margin-top:20px;
+}
+
+footer p {
+  width: 624px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.article img {
+  opacity:.25;
+}
+.article h2 {
+  line-height:35px;
+  margin-top:12px;
+}
+
+.date {
+  font-size:12px;
+  font-style:italic;
+  margin-top:-15px;
+}
+
+.author {
+  margin-top:-8px;
+}
